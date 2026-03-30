@@ -1,16 +1,110 @@
-<h1 align="center">Hi 👋, I'm Onkar Nanavare</h1>
-<h3 align="center">A passionate full stack developer(MERN) from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/portfolio0](https://github.com/portfolio0)
-
-- 📫 How to reach me **onkarnanvare9@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/onkar nanavare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onkar nanavare" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF0000,100:FF4C4C&height=250&section=header&text=ONKAR%20NANAVARE&fontSize=55&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Frontend%20Developer%20%7C%20MERN%20Stack&descAlignY=65&descSize=20" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=portfolio0&show_icons=true&locale=en&layout=compact" alt="portfolio0" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF3131&size=26&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;🚀+MERN+Stack+Developer;⚡+Building+Real-World+Applications;🔥+Always+Learning+%26+Growing" />
+</p>
+
+---
+
+## 🚀 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
+
+- 👨‍💻 Full Stack Developer (MERN)
+- 🧠 Building **AI-powered applications**
+- 📊 Interested in Frontend Development
+- ⚡ Focus: **Scalable & production-ready architecture**
+- 🎯 Goal: Build impactful and innovative tech solutions
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,php,mysql,tailwind,html,css,git,github,vscode" />
+</p>
+
+---
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2owbHpkc2tndnBpaTlyd2VlaGc3OXF5OGwyejV4MzhldWtwb21xcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zjX7lSspgGSwlaJLxm/giphy.gif" width="300"/>
+</p>
+
+## 🔥 Featured Projects
+
+### 💡 AI powered Study Assistant For The Rurral Student
+- AI-powered quiz generator  
+- AI chatbot  
+- Learning analytics dashboard  
+
+### 📈 Crypto Market Behaviour Analysis
+- Data-driven insights on crypto trends  
+- Visualization  
+
+### 🌐 Society Commerce Platform
+- Grocery & shop management system  
+- Order, delivery & inventory modules  
+- Resident & shop dashboards  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=portfolio0&show_icons=true&theme=tokyonight&border_radius=10" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=portfolio0&theme=tokyonight&border_radius=10" height="150"/>
+</p>
+
+---
+
+## ⚡ Activity Graph (Animated)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=portfolio0&theme=react-dark&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:onkarnanvare9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="www.linkedin.com/in/onkar-nanavare">
+    <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/portfolio0">
+    <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=true&vCenter=true&width=600&lines=Backend Optimization Scaling;System+Design;Scalable+Architecture;Mobile-First+UI/UX" />
+</p>
+
+---
+
+## 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=120&section=footer"/>
+</p>
+
+<h3 align="center">🔥 Build Real. Stay Consistent. Keep Growing. 🚀</h3>

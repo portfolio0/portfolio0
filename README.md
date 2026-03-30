@@ -86,13 +86,7 @@
 
 ---
 
-## 🧠 Currently Learning
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=true&vCenter=true&width=600&lines=Backend Optimization Scaling;System+Design;Scalable+Architecture;Mobile-First+UI/UX" />
-</p>
-
----
 
 ## 💬 Dev Quote
 
